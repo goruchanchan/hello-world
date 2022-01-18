@@ -1,2 +1,2 @@
 hello world
-goodby world
+goodbye world
